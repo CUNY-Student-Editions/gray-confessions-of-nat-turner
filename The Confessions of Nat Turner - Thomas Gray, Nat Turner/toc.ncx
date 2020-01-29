@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="86aa7f55-2eb2-4111-b769-79c233e04ddd" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (4.3.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>The Convessions of Nat Turner</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>TItle page</text>
+      </navLabel>
+      <content src="001-title-page.xhtml"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>The Confessions of Nat Turner</text>
+      </navLabel>
+      <content src="002.xhtml#toc_3"/>
+      <navPoint id="num_3" playOrder="3">
+        <navLabel>
+          <text>Copyright notice</text>
+        </navLabel>
+        <content src="002.xhtml#toc_2"/>
+      </navPoint>
+      <navPoint id="num_4" playOrder="4">
+        <navLabel>
+          <text>To the Public.</text>
+        </navLabel>
+        <content src="003-to-the-public.xhtml"/>
+      </navPoint>
+      <navPoint id="num_5" playOrder="5">
+        <navLabel>
+          <text>Confession</text>
+        </navLabel>
+        <content src="confession.xhtml"/>
+      </navPoint>
+      <navPoint id="num_6" playOrder="6">
+        <navLabel>
+          <text>The Commonwealth vs. Nat Turner.</text>
+        </navLabel>
+        <content src="confession.xhtml#toc_1"/>
+      </navPoint>
+      <navPoint id="num_7" playOrder="7">
+        <navLabel>
+          <text>List of persons murdered in the Insurrection</text>
+        </navLabel>
+        <content src="confession.xhtml#toc_2"/>
+      </navPoint>
+      <navPoint id="num_8" playOrder="8">
+        <navLabel>
+          <text>List of Negroes brought before the Court of Southampton and sentence.</text>
+        </navLabel>
+        <content src="confession.xhtml#toc_3"/>
+      </navPoint>
+      <navPoint id="num_9" playOrder="9">
+        <navLabel>
+          <text>Notes</text>
+        </navLabel>
+        <content src="confession.xhtml#toc_4"/>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

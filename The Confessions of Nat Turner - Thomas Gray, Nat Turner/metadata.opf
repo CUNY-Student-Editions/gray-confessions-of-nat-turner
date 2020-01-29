@@ -1,0 +1,31 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>The Confessions of Nat Turner</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Thomas Gray, Nat Turner">Thomas Gray, Nat Turner</dc:creator>
+    <dc:identifier opf:scheme="uuid" id="uuid_id">86aa7f55-2eb2-4111-b769-79c233e04ddd</dc:identifier>
+    <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (4.3.0) [https://calibre-ebook.com]</dc:contributor>
+    <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+    <dc:language>en</dc:language>
+    <dc:identifier opf:scheme="calibre">482417b2-32d1-4265-bdd6-d88a9e4a3ac1</dc:identifier>
+    <meta content="{&quot;Thomas Gray, Nat Turner&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+    <meta name="calibre:title_sort" content="Confessions of Nat Turner, The"/>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="001-title-page.xhtml" id="id1" media-type="application/xhtml+xml"/>
+    <item href="002.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="003-to-the-public.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="confession.xhtml" id="id3" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="styles.css" id="id" media-type="text/css"/>
+    <item href="cover.jpg" id="cover" media-type="image/jpeg"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="id1"/>
+    <itemref idref="id2"/>
+    <itemref idref="id4"/>
+    <itemref idref="id3"/>
+  </spine>
+  <guide/>
+</package>
